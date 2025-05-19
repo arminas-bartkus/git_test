@@ -1,0 +1,3 @@
+Git moment - Example Python
+
+print("Hello World")
